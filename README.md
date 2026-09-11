@@ -239,13 +239,25 @@ A modern web platform focused on real-time communication and collaboration.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img
+  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+  alt="React"
+/>
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img
+  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+  alt="JavaScript"
+/>
 
-<img src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<img
+  src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+  alt="DSA"
+/>
 
-<img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img
+  src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"
+  alt="Backend Development"
+/>
 
 </p>
 
@@ -259,6 +271,71 @@ A modern web platform focused on real-time communication and collaboration.
 - 🌐 Learn advanced backend development
 - 🤝 Contribute to Open Source
 - 💼 Prepare for software development opportunities
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mohitameta007&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true"
+    alt="Mohit's GitHub Stats"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitameta007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=mohitameta007&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mohitameta007&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+---
+
+# 🐍 My Contribution Snake
+
+<p align="center">
+  <picture>
+
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Mohitameta007/Mohitameta007/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Mohitameta007/Mohitameta007/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Mohitameta007/Mohitameta007/output/github-contribution-grid-snake.svg"
+    />
+
+  </picture>
+</p>
 
 ---
 
