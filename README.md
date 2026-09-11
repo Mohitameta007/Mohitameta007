@@ -1,18 +1,34 @@
 <h1 align="center">Hi 👋, I'm Mohit Ameta</h1>
 
-<h3 align="center">
-  A passionate Web Developer from India 🇮🇳
-</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Web+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Frontend+Developer+%7C+React+%7C+JavaScript;DSA+Enthusiast+%F0%9F%A7%A0;Building+Real-World+Projects+%F0%9F%9A%80"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Mohitameta007">
-    <img src="https://komarev.com/ghpvc/?username=mohitameta007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img
+      src="https://komarev.com/ghpvc/?username=mohitameta007&label=Profile%20Views&color=0e75b6&style=flat"
+      alt="Profile Views"
+    />
   </a>
+
   <a href="https://github.com/Mohitameta007?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mohitameta007?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
+    <img
+      src="https://img.shields.io/github/followers/Mohitameta007?label=Followers&style=flat&color=blue"
+      alt="GitHub Followers"
+    />
   </a>
+
   <a href="https://github.com/Mohitameta007">
-    <img src="https://img.shields.io/github/stars/Mohitameta007?label=Stars&style=flat&color=yellow" alt="GitHub Stars"/>
+    <img
+      src="https://img.shields.io/github/stars/Mohitameta007?label=Stars&style=flat&color=yellow"
+      alt="GitHub Stars"
+    />
   </a>
 </p>
 
@@ -32,26 +48,41 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/Mohitameta007" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/mohit-ameta-a89154327/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://leetcode.com/u/mohit_ameta295/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img
+    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    alt="LeetCode"
+  />
 </a>
 
 <a href="https://instagram.com/mohitbhardwaj335" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
 </a>
 
 <a href="mailto:ametamohit123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 </p>
@@ -60,164 +91,196 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+<a href="https://isocpp.org/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+    width="45"
+    height="45"
+    alt="C++"
+  />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML"/>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    width="45"
+    height="45"
+    alt="HTML"
+  />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS"/>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    width="45"
+    height="45"
+    alt="CSS"
+  />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    width="45"
+    height="45"
+    alt="JavaScript"
+  />
 </a>
 
 <a href="https://react.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    width="45"
+    height="45"
+    alt="React"
+  />
 </a>
 
 <a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    width="45"
+    height="45"
+    alt="Node.js"
+  />
 </a>
 
 <a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+    width="45"
+    height="45"
+    alt="Express.js"
+  />
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+    width="45"
+    height="45"
+    alt="MongoDB"
+  />
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+    width="45"
+    height="45"
+    alt="MySQL"
+  />
 </a>
 
 <a href="https://firebase.google.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/>
+  <img
+    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+    width="45"
+    height="45"
+    alt="Firebase"
+  />
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
+  <img
+    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+    width="45"
+    height="45"
+    alt="Tailwind CSS"
+  />
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+    width="45"
+    height="45"
+    alt="Git"
+  />
 </a>
 
 <a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+    width="45"
+    height="45"
+    alt="GitHub"
+  />
 </a>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mohitameta007&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true"
-    alt="Mohit's GitHub Stats"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitameta007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
----
-
-# 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=mohitameta007&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mohitameta007&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-# 📊 GitHub Profile Summary
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitameta007&theme=tokyonight"
-    alt="GitHub Profile Details"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitameta007&theme=tokyonight"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitameta007&theme=tokyonight"
-    alt="Repositories per Language"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitameta007&theme=tokyonight"
-    alt="Most Commit Language"
-  />
-</p>
-
----
-
-# 🐍 My Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Mohitameta007/Mohitameta007/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
-# 🚀 Featured Project
+## 🚀 Featured Project
 
 ### 💬 ConvoSpace
 
 A modern web platform focused on real-time communication and collaboration.
 
-**Tech Stack:**
+**Tech Stack**
+
 `React` `JavaScript` `Node.js` `Express.js` `MongoDB`
 
-🔗 **Repository:**  
-https://github.com/Mohitameta007
+<p>
+  <a href="https://github.com/Mohitameta007">
+    <img
+      src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Project"
+    />
+  </a>
+</p>
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-```text
-React
-Advanced JavaScript
-Data Structures & Algorithms
-Backend Development
-System Design
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+<img src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+
+<img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+</p>
+
+---
+
+## 🎯 Goals
+
+- 🚀 Build and deploy more real-world projects
+- 🧠 Improve Data Structures & Algorithms
+- ⚛️ Become stronger in React & modern frontend development
+- 🌐 Learn advanced backend development
+- 🤝 Contribute to Open Source
+- 💼 Prepare for software development opportunities
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:ametamohit123@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-ametamohit123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together 🚀</i>
+</p>
